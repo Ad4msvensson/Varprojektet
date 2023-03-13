@@ -8,3 +8,17 @@ Jag och min grupp ägnade oss till stor del med att lära känna projektet vi sk
 
 ###Tisdag
 Vi delade upp arbetet igen och fortsatte jobba där vi var. Under lektionens tid så fortsatte jag ägna mig åt boostrap och började med sitemapen.
+
+
+##Vecka 10
+
+###Måndag
+Jag fortsatte med arbetet från förra veckans lektion och påbörjade samt lite med webbsidans uppgift och call to actions.
+
+###Tisdag
+Denna lektionen gick till lite snabb genomgång av det vi har kvar och vi började arbeta med det som icke var klar. Jag började kolla på logans utseende samt färgschemat för webbisdan och det pågick under hela lektionens tid.
+
+##Vecka 11
+
+###måndag
+Vi avslutade och updaterade filerna idag så alla hade åtkomst till allt. Vi förbättrade en del av det vi hade klart och vi diskuterade inför framtid och webbsidans konstruktion.
