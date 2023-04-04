@@ -22,3 +22,8 @@ Denna lektionen gick till lite snabb genomgång av det vi har kvar och vi börja
 
 ###måndag
 Vi avslutade och updaterade filerna idag så alla hade åtkomst till allt. Vi förbättrade en del av det vi hade klart och vi diskuterade inför framtid och webbsidans konstruktion.
+
+##Vecka 12
+
+###måndag
+Konstruktion har nu påbörjats så jag har börjat koda framsidan (första sidan) 
