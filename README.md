@@ -26,4 +26,36 @@ Vi avslutade och updaterade filerna idag så alla hade åtkomst till allt. Vi f�
 ##Vecka 12
 
 ###måndag
-Konstruktion har nu påbörjats så jag har börjat koda framsidan (första sidan) 
+Konstruktion har nu påbörjats så jag har börjat koda framsidan (första sidan). Lagt till lite bilder och text samt sökt runt
+
+###Tisdag
+Fortsättning på vad jag påbörjade i måndags.
+
+##Vecka 13
+
+###Måndag
+Denna lektionen så jobbade jag med att länka ihop alla filerna med varandra så man kan flytta fram och tillbaka.
+
+###Tisdag
+Jag jobbade vidare med förstasidan och placerade allting lite mer och fokuserade på utseendet.
+
+##vecka 14
+
+###måndag
+Jobbande med konstruktion av sidan.
+
+###tisdag
+Prov + Konstruktion jobbades vidare med och få det som har lagts till fungerar och passar in bra.
+
+##Vecka 16
+
+###måndag
+Konstruktion av sidan.
+
+###Tisdag
+Konstruktion igen.
+
+##Vecka 17
+
+###Måndag
+Jobbade med utseendet och färgschemat så det smällter in och passar bra.
